@@ -1,0 +1,5 @@
+﻿  speechManager.cpp
+C:\Users\niedo\Desktop\基于STL的演讲比赛流程管理系统\基于STL的演讲比赛流程管理系统\speechManager.cpp(344,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  演讲比赛流程管理系统.cpp
+  正在生成代码...
+  基于STL的演讲比赛流程管理系统.vcxproj -> C:\Users\niedo\Desktop\基于STL的演讲比赛流程管理系统\x64\Debug\基于STL的演讲比赛流程管理系统.exe
